@@ -11,6 +11,8 @@ Even if I were, I would not be willing to relocate.
 I am available for consulting, though I only have a few hours available per week.
 Please email me if you're interested.
 
+I don't write often, but you can follow my blog at [medium/@jongleberry](https://medium.com/@jongleberry).
+
 You can find me on the following slack groups:
 
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
