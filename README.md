@@ -1,15 +1,12 @@
 ### Greetings!
 
-I'm Jonathan Ong, a software engineering manager based in Los Angeles, CA.
+I'm Jonathan Ong, a software engineering manager based in Orange County, CA.
 When I have time, I help maintain [koajs](https://github.com/koajs).
 Previously, I helped maintain [expressjs](http://expressjs.com/) and friends.
 
 Currently, I'm focusing on people and project management and am an engineering manager at [Houzz](https://www.houzz.com/). 
 I am not currently looking for a new position.
 Even if I were, I would not be willing to relocate.
-
-I am available for consulting, though I only have a few hours available per week.
-Please email me if you're interested.
 
 I don't write often, but you can follow my blog at [medium/@jongleberry](https://medium.com/@jongleberry).
 
